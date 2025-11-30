@@ -1,0 +1,17 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+xgboost
+lightgbm
+joblib
+optuna
+streamlit
+plotly
+fastparquet
+pyarrow
+dask
+streamlit-option-menu
+uvicorn
+fastapi
